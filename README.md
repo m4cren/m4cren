@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, <strong>I'm Marc Rainier Reyes</strong>, a 2nd-year <strong>Computer Engineering</strong> student<br>at Laguna State Polytechnic University SPCC.<br><br>I have a strong passion for programming and building things specifically for building<br>website and soon, mobile application.<br><br>Currently, I am honing my skills in <strong>React.js, Three.js, Flask,</strong> and <strong>Socket.io</strong> and working<br>on projects that enhance my problem-solving and software development abilities.
+Hello, <strong>I'm Marc Rainier Reyes</strong>, a 2nd-year <strong>Computer Engineering</strong> student<br>at Laguna State Polytechnic University SPCC.<br><br>I have a strong passion for programming and building things specifically for building<br>website and soon, mobile application.<br><br>Currently, I am honing my skills in <strong>Next.js, Three.js and Firebase </strong> and working<br>on projects that enhance my problem-solving and software development abilities.
 
 
 
