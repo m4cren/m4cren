@@ -2,8 +2,9 @@
 Hello, <strong>I'm Marc Rainier Reyes</strong>, a 3rd-year <strong>Computer Engineering</strong> student<br>at Laguna State Polytechnic University SPCC.<br><br>I have a strong passion for programming and building things specifically for building<br>website and soon, mobile application.<br><br>Currently, I am honing my skills in <strong>Next.js, Three.js and Firebase </strong> and working<br>on projects that enhance my problem-solving and software development abilities.
 </br>
 </br>
-</br>
-<a target="_blank" href="http://rainier-reyes.vercel.app" style={{backgroundColor: '#ffffff', padding: '1rem'}}>Visit My Portfolio</a>
+</br><a href="http://rainier-reyes.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 
 # 💻 Tech Stack:
