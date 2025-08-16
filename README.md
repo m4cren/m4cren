@@ -3,7 +3,7 @@ Hello, <strong>I'm Marc Rainier Reyes</strong>, a 3rd-year <strong>Computer Engi
 </br>
 </br>
 </br>
-<a targer="_blank" href="rainier-reyes.vercel.app">Visit My Portfolio</a>
+<a targer="_blank" href="http://rainier-reyes.vercel.app">Visit My Portfolio</a>
 
 
 # 💻 Tech Stack:
