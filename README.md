@@ -1,24 +1,54 @@
-# 💫 About Me:
-Hello, <strong>I'm Marc Rainier Reyes</strong>, a 4th-year <strong>Computer Engineering</strong> student<br>at Laguna State Polytechnic University SPCC.<br><br>I have a strong passion for programming and building things specifically for building<br>website and soon, mobile application.<br><br>Currently, I am honing my skills in <strong>Next.js, Three.js and Firebase </strong> and working<br>on projects that enhance my problem-solving and software development abilities.
-</br>
-</br>
-</br><a href="http://rainier-reyes.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</br>
-</br>
+# Marc Rainier Reyes
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m4cren&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m4cren&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4cren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Computer Engineering Student · Software Developer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m4cren&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+I build software, embedded systems, and intelligent connected devices, with a focus on hardware–software integration and practical engineering solutions.
+
+Currently pursuing a BS in Computer Engineering at Laguna State Polytechnic University — San Pablo City Campus, Philippines.
+
+[Portfolio](https://rainier-reyes.vercel.app) · [GitHub](https://github.com/m4cren)
+
+## Areas of expertise
+
+- **Software Engineering** — Full-stack web applications, backend services, REST APIs, and databases.
+- **Embedded Systems & IoT** — Microcontrollers, embedded Linux, sensors, and connected device automation.
+- **Electronics & PCB Design** — Circuit design, schematic development, PCB layout, and hardware prototyping.
+- **AI Integration** — Vision-language models, image analysis, and semantic matching.
+- **Systems Integration** — Connecting software, electronics, networking, and physical systems.
+
+## Featured project — SAULI
+
+An AI-powered, IoT-enabled lost-and-found management system developed as a Computer Engineering team capstone project.
+
+SAULI integrates intelligent item recognition, secure compartment management, custom electronics, embedded controllers, and a centralized software platform.
+
+**Technologies:** Raspberry Pi, ESP32-S3, C++, Python, Next.js, FastAPI, Supabase, KiCad, Ollama.
+
+**Status:** In development.
+
+## Professional experience
+
+**Frontend Developer (Freelance) — Bloo Pop**  
+September 2025 – Present
+
+Contributing to a creator-focused platform through responsive application features, messaging, media sharing, subscriptions, dashboards, and service integrations.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, C/C++ |
+| Frontend | React, Next.js, Tailwind CSS, Three.js |
+| Backend | FastAPI, Flask, Node.js |
+| Data | PostgreSQL, Supabase, Firebase, MySQL, SQLite |
+| Embedded | Raspberry Pi, ESP32, Arduino |
+| Electronics & design | KiCad, SketchUp, Blender, Figma |
+| Infrastructure & AI | Linux, Git, GitHub, Vercel, Tailscale, Ollama |
+
+## GitHub activity
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=m4cren&theme=dark&hide_border=true&include_all_commits=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m4cren&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Open to internships, freelance projects, and professional collaborations across software and engineering.
